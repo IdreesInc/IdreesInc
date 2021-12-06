@@ -1,6 +1,6 @@
-### Hey, I'm Idrees Hassan and I make things 👋🏽
+## Hey, I'm Idrees Hassan and I make things 👋🏽
 
- Let's create something fun! 🎉
+### Let's create something fun! 🎉
 
 🔭 My Website: [idreesinc.com](https://idreesinc.com)
 
@@ -9,18 +9,3 @@
 📺 YouTube: [www.youtube.com/idreeshassan](https://www.youtube.com/idreeshassan)
 
 💼 LinkedIn: [www.linkedin.com/in/idrees-hassan](https://www.linkedin.com/in/idrees-hassan)
-
-<!--
-**IdreesInc/IdreesInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
