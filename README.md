@@ -1,4 +1,4 @@
-## Hey, I'm Idrees Hassan and I make things 👋🏽
+## Hey, I'm Idrees Hassan 👋🏽
 
 ### Let's create something fun! 🎉
 
