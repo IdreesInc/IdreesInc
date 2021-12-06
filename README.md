@@ -1,6 +1,6 @@
 ## Hey, I'm Idrees Hassan 👋🏽
 
-### Let's create something fun! 🎉
+### Look at all this weird stuff I've made!
 
 🔭 My Website: [idreesinc.com](https://idreesinc.com)
 
