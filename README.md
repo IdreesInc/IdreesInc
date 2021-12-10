@@ -8,4 +8,6 @@
 
 📺 YouTube: [www.youtube.com/idreeshassan](https://www.youtube.com/idreeshassan)
 
+📸 Instagram: [@idreesinc](https://www.instagram.com/idreesinc/)
+
 💼 LinkedIn: [www.linkedin.com/in/idrees-hassan](https://www.linkedin.com/in/idrees-hassan)
