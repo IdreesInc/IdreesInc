@@ -6,6 +6,8 @@
 
 🦤 Twitter: [@idreesinc](https://twitter.com/IdreesInc)
 
+🦣 Mastodon: [@idreesinc@mastodon.social](https://mastodon.social/@idreesinc)
+
 📺 YouTube: [www.youtube.com/idreeshassan](https://www.youtube.com/idreeshassan)
 
 📸 Instagram: [@idreesinc](https://www.instagram.com/idreesinc/)
