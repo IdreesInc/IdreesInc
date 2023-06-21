@@ -6,6 +6,8 @@
 
 🦤 Twitter: [@idreesinc](https://twitter.com/IdreesInc)
 
+🏙️ Bluesky: [@idreesinc.com](https://bsky.app/profile/idreesinc.com)
+
 🦣 Mastodon: [@idreesinc@mastodon.social](https://mastodon.social/@idreesinc)
 
 📺 YouTube: [www.youtube.com/idreeshassan](https://www.youtube.com/idreeshassan)
