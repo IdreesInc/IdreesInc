@@ -1,7 +1,6 @@
 ## Hey, I'm Idrees Hassan 👋🏽
 
 ![GitHub User's stars](https://img.shields.io/github/stars/idreesinc?style=flat)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/idreesinc/monocraft/total) 
 
 ### Look at all this weird stuff I've made!
 
