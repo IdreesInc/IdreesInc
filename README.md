@@ -6,13 +6,11 @@
 
 🔭 My Website: [idreesinc.com](https://idreesinc.com)
 
-🦤 Twitter: [@idreesinc](https://twitter.com/IdreesInc)
+🏙️ Bluesky: [@idreesinc.com](https://bsky.app/profile/idreesinc.com)
 
 🦣 Mastodon: [@idreesinc@mastodon.social](https://mastodon.social/@idreesinc)
 
 🧵 Threads: [@idreesinc](https://www.threads.net/@idreesinc)
-
-🏙️ Bluesky: [@idreesinc.com](https://bsky.app/profile/idreesinc.com)
 
 📺 YouTube: [www.youtube.com/idreeshassan](https://www.youtube.com/idreeshassan)
 
