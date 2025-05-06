@@ -6,14 +6,10 @@
 
 🔭 My Website: [idreesinc.com](https://idreesinc.com)
 
+💼 LinkedIn: [www.linkedin.com/in/idrees-hassan](https://www.linkedin.com/in/idrees-hassan)
+
 🏙️ Bluesky: [@idreesinc.com](https://bsky.app/profile/idreesinc.com)
-
-🦣 Mastodon: [@idreesinc@mastodon.social](https://mastodon.social/@idreesinc)
-
-🧵 Threads: [@idreesinc](https://www.threads.net/@idreesinc)
 
 📺 YouTube: [www.youtube.com/idreeshassan](https://www.youtube.com/idreeshassan)
 
 📸 Instagram: [@idreesinc](https://www.instagram.com/idreesinc/)
-
-💼 LinkedIn: [www.linkedin.com/in/idrees-hassan](https://www.linkedin.com/in/idrees-hassan)
