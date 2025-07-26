@@ -1,6 +1,8 @@
 ## Hey, I'm Idrees Hassan 👋🏽
 
-![GitHub User's stars](https://img.shields.io/github/stars/idreesinc?style=flat)
+![GitHub User's stars](https://img.shields.io/github/stars/idreesinc?style=flat) <a href="https://discord.gg/6yxE9prcNc" target="_blank">
+	<img alt="Discord" src="https://img.shields.io/discord/1398471368403583120?logo=discord&logoColor=fff&label=discord&color=5865F2">
+</a>
 
 ### Look at all this weird stuff I've made!
 
