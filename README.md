@@ -11,6 +11,8 @@
 💼 LinkedIn: [www.linkedin.com/in/idrees-hassan](https://www.linkedin.com/in/idrees-hassan)
 
 🏙️ Bluesky: [@idreesinc.com](https://bsky.app/profile/idreesinc.com)
+​
+🧵​ Threads: [@idreesinc](https://www.threads.com/@idreesinc​)
 
 📺 YouTube: [www.youtube.com/idreeshassan](https://www.youtube.com/idreeshassan)
 
